@@ -1,7 +1,7 @@
 # Sweeden 🌆
-I have created a web page of my favorite city using Tailwind and other resources.# My favorite food 🍝
+I have created a web page of my favorite city using Tailwind and other resources.
 
-## Status: in progress... ⏳
+## Status: done ✔️
 
 ## Objective:
 Build a web page about my favorite city usin only Tailwind for the styles.
